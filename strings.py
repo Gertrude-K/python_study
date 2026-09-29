@@ -7,3 +7,8 @@ else:
     print("Player")
 
 
+food ="Pizza"
+food.replace("z","s")
+print(food)
+
+
