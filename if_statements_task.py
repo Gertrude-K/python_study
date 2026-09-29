@@ -82,7 +82,7 @@ else:
 # Prints "String Detected" if value is a string.
 # Prints "Integer Detected" if value is an integer.
 # Prints "Unknown Type" for any other type.
-variable = input("Enter a value: ")
+variable = "hello"
 if type(variable) == str:
     print("String Detected")
 elif type(variable) == int:
