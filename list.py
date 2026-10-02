@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # # Check if item exists before removing
 # if 5 in numbers:
 #     numbers.remove(5)
@@ -14,7 +14,7 @@
 
 # # Get and remove last item
 # last = numbers.pop()           # No index = removes last item
-=======
+
 fruits=["mango","oranges","banana","lemon","grapes"]
 print(fruits)
 #indexing and slicing
@@ -48,4 +48,4 @@ days_of_the_week.remove("Friday")
 days_of_the_week.pop(0)
 days_of_the_week.pop()
 print(days_of_the_week)
->>>>>>> 65e233a (list)
+

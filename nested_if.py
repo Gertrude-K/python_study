@@ -28,3 +28,5 @@ if credit_score > 700:
 else: 
     print("Credit score too low")
 
+
+
